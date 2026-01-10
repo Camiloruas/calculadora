@@ -4,7 +4,7 @@ Uma calculadora simples e funcional desenvolvida com foco na manipulação do DO
 
 ## Demonstração
 
-[Clique aqui para testar a calculadora](https://camiloruas.github.io/calcauladora/).
+[Clique aqui para testar a calculadora](https://camiloruas.github.io/calculadora/).
 
 ## Visão Geral
 
